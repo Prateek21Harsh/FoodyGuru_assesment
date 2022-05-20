@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590278162351",
+    "project_id": "foodyguru-72071",
+    "storage_bucket": "foodyguru-72071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590278162351:android:c7862276970c1161bfa15a",
+        "android_client_info": {
+          "package_name": "com.example.foodyguru_temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590278162351-t2cflit1g80sbe7t8d4ciefcf72pi636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7pBFL9vbTEV6fDqTtJn_v7JMqzPFWRNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590278162351-t2cflit1g80sbe7t8d4ciefcf72pi636.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
